@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Navigate to **Virtual Machines** → **Create**.
 - Select a **Windows image**.
 - Name the VM (e.g., "osTicket"), create a new resource group and select a region.
-- Choose a size with **at least 4 vCPUs**.
+- Choose a size with **at least 2 vCPUs**.
 - Configure networking and storage, then deploy the VM.
 
 <p>
