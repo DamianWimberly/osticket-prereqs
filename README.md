@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Log in to the Azure portal.
 - Navigate to **Virtual Machines** → **Create**.
 - Select a **Windows image**.
-- Name the VM (e.g., "osTicket"), select a resource group and region.
+- Name the VM (e.g., "osTicket"), create a new resource group and select a region.
 - Choose a size with **at least 4 vCPUs**.
 - Configure networking and storage, then deploy the VM.
 
