@@ -46,7 +46,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 🔷 ***Connect to the VM***
 
-- Use RDP to connect to the VM via its IP address.
+- Use RDP to connect to the VM via its public IP address.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
