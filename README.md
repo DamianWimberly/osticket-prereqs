@@ -66,7 +66,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <tr>
     <td><img width="200" alt="3" src="https://github.com/user-attachments/assets/ae14a1a6-f5ba-44e8-b69b-596f1888d1c1">
 </td>
-    <td><img width="200" height= "160" alt="4" src="https://github.com/user-attachments/assets/6a1ef0a9-946a-4e55-8ea3-ff20661ceaa5">
+    <td><img width="200" height= "150" alt="4" src="https://github.com/user-attachments/assets/6a1ef0a9-946a-4e55-8ea3-ff20661ceaa5">
   <tr>
     <td>VM Public IP Address</td>
     <td>Connect via RDP</td></td>
