@@ -40,20 +40,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Choose a size with **at least 2 vCPUs**.
 - Configure networking and storage, then deploy the VM.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" alt="1" src="https://github.com/user-attachments/assets/7e28700b-d45d-4ae7-8d12-ad935d9dbd1d">
+</td>
+    <td><img width="200" alt="2" src="https://github.com/user-attachments/assets/9e461661-b6c5-4507-bad4-694523fed780">
+</td>
+    <td><img width="200" alt="4 copy" src="https://github.com/user-attachments/assets/d8096391-2264-4f74-a555-5417b6e72cc2">
+</td>
+  </tr>
+  <tr>
+    <td>Create the VM in Azure</td>
+    <td>Networking Settings</td>
+    <td>VM Overview</td>
+  </tr>
+</table>
+
+
 
 🔷 ***Connect to the VM***
 
 - Use RDP to connect to the VM via its public IP address.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" alt="3" src="https://github.com/user-attachments/assets/ae14a1a6-f5ba-44e8-b69b-596f1888d1c1">
+</td>
+    <td><img width="200" height= "160" alt="4" src="https://github.com/user-attachments/assets/6a1ef0a9-946a-4e55-8ea3-ff20661ceaa5">
+  <tr>
+    <td>VM Public IP Address</td>
+    <td>Connect via RDP</td></td>
+  </tr>
+</table>
+
+
 
 🔷 ***Install Required Software***
 
+- Download **[osTicket-Installation-Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)** within the Windows VM
 - **Install Visual C++ Redistributable** (`VC_redist.x86.exe` from "osTicket-Installation-Files").
 - **Install MySQL 5.5.62** (`mysql-5.5.62-win32.msi`, Typical Setup).
   - Launch Configuration Wizard → Standard Configuration.
