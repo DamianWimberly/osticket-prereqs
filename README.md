@@ -87,9 +87,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-🔷 ***Set Up IIS and PHP***
+🔷 ***Set Up IIS with CGI and PHP***
 
-- Open **IIS** as Admin.
+- Enable **IIS** and CGI via Control Panel.
+Control Panel > Programs > Programs and Features: ✔ Internet Information Services and ✔ CGI (World Wide Web Services > Application Development Features) 
 - Register PHP: PHP Manager → `C:\PHP\php-cgi.exe`.
 - Reload IIS (Stop/Start the server).
 
