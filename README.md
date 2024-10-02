@@ -85,24 +85,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   <table>
   <tr>
-    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
+    <td><img width="200" height="150" alt="16" src="https://github.com/user-attachments/assets/6924911b-4dfe-4473-839c-d3f37179ea82">
+</td>
     <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
     <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
     <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
     <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+    
   </tr>
   <tr>
-    <td>Step 1</td>
+    <td>Download & Extract</td>
     <td>Step 2</td>
     <td>Step 3</td>
     <td>Step 4</td>
     <td>Step 5</td>
-    <td>Step 6</td>
-    <td>Step 7</td>
-    <td>Step 8</td>
   </tr>
 </table>
 
