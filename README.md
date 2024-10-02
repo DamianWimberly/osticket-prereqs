@@ -87,16 +87,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-🔷 ***Set Up IIS with CGI and PHP***
+🔷 ***Enable IIS and CGI***
 
-- Enable **IIS** and CGI via Control Panel.
-Control Panel > Programs > Programs and Features: ✔ Internet Information Services and ✔ CGI (World Wide Web Services > Application Development Features) 
+Go to **Control** **Panel** > **Programs** > **Programs and Features**
+- Check ✔ **Internet Information Services** and ✔ **CGI** (under **World Wide Web Services** > **Application Development Features**)
 - Register PHP: PHP Manager → `C:\PHP\php-cgi.exe`.
 - Reload IIS (Stop/Start the server).
 
-  <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="6" src="https://github.com/user-attachments/assets/559268bd-9bb4-4e67-acc2-2de9ab4a4412">
+</td>
+    <td><img width="200" height="150" alt="7" src="https://github.com/user-attachments/assets/5342a34f-aded-44fc-a71f-2fc9a0a296af">
+</td>
+    <td><img width="200" height="150" alt="9" src="https://github.com/user-attachments/assets/a5dcc679-4b28-43b6-bf8a-7300189f0fbf">
+</td>
+  </tr>
+  <tr>
+    <td>Control Panel</td>
+    <td>Features/ISS Enabled </td>
+    <td>CGI Enabled</td>
+  </tr>
+</table>
+
 
 🔷 ***Install osTicket***
 
@@ -107,7 +120,7 @@ Control Panel > Programs > Programs and Features: ✔ Internet Information Servi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-🔷 ***Enable PHP Extensions***
+🔷 ***Enable PHP Extensions*** 
 
 - Enable in PHP Manager:
   - `php_imap.dll`
