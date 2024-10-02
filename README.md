@@ -77,15 +77,35 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 🔷 ***Install Required Software***
 
-- Download **[osTicket-Installation-Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)** within the Windows VM
+- Download and extract **[osTicket-Installation-Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)** in the Windows VM
 - **Install Visual C++ Redistributable** (`VC_redist.x86.exe` from "osTicket-Installation-Files").
 - **Install MySQL 5.5.62** (`mysql-5.5.62-win32.msi`, Typical Setup).
   - Launch Configuration Wizard → Standard Configuration.
   - Set Username: `root`, Password: `root`.
 
-  <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+  <table>
+  <tr>
+    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+    <td>Step 5</td>
+    <td>Step 6</td>
+    <td>Step 7</td>
+    <td>Step 8</td>
+  </tr>
+</table>
+
 
 🔷 ***Enable IIS and CGI***
 
@@ -151,6 +171,25 @@ Go to **Control** **Panel** > **Programs** > **Programs and Features**
   - Database: `osTicket`, Username: `root`, Password: `root`.
   - Click **Install Now!**
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ <table>
+  <tr>
+    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+    <td>Step 5</td>
+    <td>Step 6</td>
+    <td>Step 7</td>
+    <td>Step 8</td>
+  </tr>
+</table>
