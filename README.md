@@ -78,24 +78,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 🔷 ***Install Required Software***
 
 - Download and extract **[osTicket-Installation-Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)** in the Windows VM
-- **Install Visual C++ Redistributable** (`VC_redist.x86.exe` from "osTicket-Installation-Files").
-- **Install MySQL 5.5.62** (`mysql-5.5.62-win32.msi`, Typical Setup).
-  - Launch Configuration Wizard → Standard Configuration.
-  - Set Username: `root`, Password: `root`.
-
+  - Install **Visual C++ Redistributable** (`VC_redist.x86.exe`)
+  - Install **PHP Manager for IIS** (`PHPManagerForIIS_V1.50`)
+  - Install **RewriteModule** (`rewrite_amd64_en-US`)
+  - Install **MySQL 5.5.62** (`mysql-5.5.62-win32`, Typical Setup → Launch Configuration Wizard → Standard Configuration, Set Username: `root`, Password: `root`)
+  - Install **HeidiSQL** (`HeidiSQL_12.3.0.6589_Setup`)
+  
   <table>
   <tr>
-    <td><img width="200" height="150" alt="16" src="https://github.com/user-attachments/assets/6924911b-4dfe-4473-839c-d3f37179ea82">
+    <td><img width="200" height="150" alt="12" src="https://github.com/user-attachments/assets/2e4e2d40-86ca-4cbb-83c1-319ed0cbb5c7">
 </td>
-    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
+    <td><img width="200" height="150" alt="13" src="https://github.com/user-attachments/assets/2a323a41-1cc4-47ee-9503-c0c100e2bc10">
+</td>
     <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
     <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
     <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
-    
   </tr>
   <tr>
     <td>Download & Extract</td>
-    <td>Step 2</td>
+    <td>osTicket Installation Files</td>
     <td>Step 3</td>
     <td>Step 4</td>
     <td>Step 5</td>
