@@ -123,21 +123,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 🔷 ***Registering PHP in IIS***
 
-- Create the directory `C:\PHP`.
+- Create the directory `C:\PHP`
   - Unzip **PHP 7.3.8** (`php-7.3.8-nts-Win32-VC15-x86.zip`) from the **osTicket-Installation-Files** folder into `C:\PHP`.
 
-- **Open IIS as Admin**.
+- Register PHP
+    - IIS(open as admin) > PHP Manager > `C:\PHP\php-cgi.exe`.
+    - Reload IIS by:Stop and Start the server
 
-Register PHP
-  - IIS > PHP Manager > `C:\PHP\php-cgi.exe`.
-- **Reload IIS**:
-  - Open IIS > Stop and Start the server.
-
-
- **Reload IIS**
-- Open **IIS**, stop the server, and then restart it.
-
- ***Install osTicket***
+🔷  ***Install osTicket***
 
 - Unzip `osTicket-v1.15.8.zip` and move the "upload" folder to `C:\inetpub\wwwroot`. Rename it to "osTicket."
 - Reload IIS and browse to **Sites** → **Default** → **osTicket** → **Browse *:80**.
