@@ -96,7 +96,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <tr>
     <td>Download & Extract</td>
     <td>osTicket Installation Files</td>
-    <td>MySQL Install Steps</td>
+    <td>MySQL Install & Configuration</td>
   </tr>
 </table>
 
