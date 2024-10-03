@@ -78,28 +78,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 🔷 ***Install Required Software***
 
 - Download and extract **[osTicket-Installation-Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)** in the Windows VM
-  - Install **Visual C++ Redistributable** (`VC_redist.x86.exe`)
+  - Install **HeidiSQL** (`HeidiSQL_12.3.0.6589_Setup`)
+  - Install **MySQL 5.5.62** (`mysql-5.5.62-win32`, Typical Setup → Launch Configuration Wizard → Standard Configuration, Set Username: `root`, Password: `root`)
   - Install **PHP Manager for IIS** (`PHPManagerForIIS_V1.50`)
   - Install **RewriteModule** (`rewrite_amd64_en-US`)
   - Install **MySQL 5.5.62** (`mysql-5.5.62-win32`, Typical Setup → Launch Configuration Wizard → Standard Configuration, Set Username: `root`, Password: `root`)
-  - Install **HeidiSQL** (`HeidiSQL_12.3.0.6589_Setup`)
-  
-  <table>
+  - Install **Visual C++ Redistributable** (`VC_redist.x86.exe`)
+ 
+ <table>
   <tr>
     <td><img width="200" height="150" alt="12" src="https://github.com/user-attachments/assets/2e4e2d40-86ca-4cbb-83c1-319ed0cbb5c7">
 </td>
     <td><img width="200" height="150" alt="13" src="https://github.com/user-attachments/assets/2a323a41-1cc4-47ee-9503-c0c100e2bc10">
 </td>
-    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-02 at 10 00 59 PM" src="https://github.com/user-attachments/assets/1cca1be2-c384-400c-a6f7-917aa312dc11"><img width="200" height="150" alt="Screenshot 2024-10-02 at 9 58 45 PM" src="https://github.com/user-attachments/assets/f70941d3-aead-411a-bcab-5c61d05410fd"><img width="200" height="150" alt="Screenshot 2024-10-02 at 9 58 01 PM" src="https://github.com/user-attachments/assets/39172d2b-4c68-40a4-9c76-62d64b3785d7"></td>
+   
   </tr>
   <tr>
     <td>Download & Extract</td>
     <td>osTicket Installation Files</td>
-    <td>Step 3</td>
-    <td>Step 4</td>
-    <td>Step 5</td>
+    <td>Heidi Install</td>
   </tr>
 </table>
 
