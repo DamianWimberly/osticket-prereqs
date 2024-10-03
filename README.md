@@ -129,15 +129,56 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Register PHP
     - IIS(open as admin) > PHP Manager > `C:\PHP\php-cgi.exe`.
     - Reload IIS by:Stop and Start the server
+ <table>
+  <tr>
+    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+    <td>Step 5</td>
+    <td>Step 6</td>
+    <td>Step 7</td>
+    <td>Step 8</td>
+  </tr>
+</table>
 
 🔷  ***Install osTicket***
 
 - Unzip `osTicket-v1.15.8.zip` and move the "upload" folder to `C:\inetpub\wwwroot`. Rename it to "osTicket."
 - Reload IIS and browse to **Sites** → **Default** → **osTicket** → **Browse *:80**.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ <table>
+  <tr>
+    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+    <td>Step 5</td>
+    <td>Step 6</td>
+    <td>Step 7</td>
+    <td>Step 8</td>
+  </tr>
+</table>
 
 🔷 ***Enable PHP Extensions*** 
 
@@ -147,9 +188,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - `php_opcache.dll`
 - Reload IIS and refresh the osTicket site.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ <table>
+  <tr>
+    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+    <td>Step 5</td>
+    <td>Step 6</td>
+    <td>Step 7</td>
+    <td>Step 8</td>
+  </tr>
+</table>
 
 🔷 ***Configure osTicket Settings***
 
@@ -158,9 +218,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Disable inheritance → Remove All.
   - Grant Full Control to "Everyone."
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ <table>
+  <tr>
+    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
+    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
+    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+    <td>Step 5</td>
+    <td>Step 6</td>
+    <td>Step 7</td>
+    <td>Step 8</td>
+  </tr>
+</table>
 
 🔷 ***Finalize Installation***
 
