@@ -80,9 +80,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download and extract **[osTicket-Installation-Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)** in the Windows VM
   - Install **HeidiSQL** (`HeidiSQL_12.3.0.6589_Setup`)
   - Install **MySQL 5.5.62** (`mysql-5.5.62-win32`, Typical Setup → Launch Configuration Wizard → Standard Configuration, Set Username: `root`, Password: `root`)
-  - Install **PHP Manager for IIS** (`PHPManagerForIIS_V1.50`)
+  - Install **PHP Manager for IIS** (`PHPManagerForIIS_V1.5.0`)
   - Install **RewriteModule** (`rewrite_amd64_en-US`)
-  - Install **Visual C++ Redistributable** (`VC_redist.x86.exe`)
+  - Install **Visual C++ Redistributable** (`VC_redist.x86.`)
  
  <table>
   <tr>
