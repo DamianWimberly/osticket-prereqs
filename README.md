@@ -33,12 +33,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 🔷 ***Create an Azure Virtual Machine***
 
-- Log in to the Azure portal.
-- Navigate to **Virtual Machines** → **Create**.
-- Select a **Windows image**.
-- Name the VM (e.g., "osTicket"), create a new resource group and select a region.
-- Choose a size with **at least 2 vCPUs**.
-- Configure networking and storage, then deploy the VM.
+- In Azure, Navigate to **Virtual Machines** → **Create**.
+  - Select a **Windows image**.
+  - Name the VM (e.g., "osTicket"), create a new resource group and select a region.
+  - Choose a size with **at least 2 vCPUs**.
+  - Configure networking and storage, then deploy the VM.
 
 <table>
   <tr>
@@ -103,10 +102,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 🔷 ***Enable IIS and CGI***
 
-Go to **Control** **Panel** > **Programs** > **Programs and Features**
-- Check ✔ **Internet Information Services** and ✔ **CGI** (under **World Wide Web Services** > **Application Development Features**)
-- Register PHP: PHP Manager → `C:\PHP\php-cgi.exe`.
-- Reload IIS (Stop/Start the server).
+- Go to **Control** **Panel** > **Programs** > **Programs and Features**
+  - Check ✔ **Internet Information Services** and ✔ **CGI** (under **World Wide Web Services** > **Application Development Features**)
 
 <table>
   <tr>
@@ -124,12 +121,14 @@ Go to **Control** **Panel** > **Programs** > **Programs and Features**
   </tr>
 </table>
 
-🔷 ***Registering PHP and Reloading IIS***
+🔷 ***Registering PHP in IIS***
 
- - **Create the directory** `C:\PHP`.
-- **Unzip PHP 7.3.8** (`php-7.3.8-nts-Win32-VC15-x86.zip`) from the **osTicket-Installation-Files** folder into `C:\PHP`.
+- Create the directory `C:\PHP`.
+  - Unzip **PHP 7.3.8** (`php-7.3.8-nts-Win32-VC15-x86.zip`) from the **osTicket-Installation-Files** folder into `C:\PHP`.
+
 - **Open IIS as Admin**.
-- **Register PHP**:
+
+Register PHP
   - IIS > PHP Manager > `C:\PHP\php-cgi.exe`.
 - **Reload IIS**:
   - Open IIS > Stop and Start the server.
