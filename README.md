@@ -124,8 +124,21 @@ Go to **Control** **Panel** > **Programs** > **Programs and Features**
   </tr>
 </table>
 
+🔷 ***Registering PHP and Reloading IIS***
 
-🔷 ***Install osTicket***
+ - **Create the directory** `C:\PHP`.
+- **Unzip PHP 7.3.8** (`php-7.3.8-nts-Win32-VC15-x86.zip`) from the **osTicket-Installation-Files** folder into `C:\PHP`.
+- **Open IIS as Admin**.
+- **Register PHP**:
+  - IIS > PHP Manager > `C:\PHP\php-cgi.exe`.
+- **Reload IIS**:
+  - Open IIS > Stop and Start the server.
+
+
+ **Reload IIS**
+- Open **IIS**, stop the server, and then restart it.
+
+ ***Install osTicket***
 
 - Unzip `osTicket-v1.15.8.zip` and move the "upload" folder to `C:\inetpub\wwwroot`. Rename it to "osTicket."
 - Reload IIS and browse to **Sites** → **Default** → **osTicket** → **Browse *:80**.
