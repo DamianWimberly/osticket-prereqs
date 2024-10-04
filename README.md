@@ -128,7 +128,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Register PHP
     - IIS(open as admin) > PHP Manager > `C:\PHP\php-cgi.exe`.
-    - Reload IIS by:Stop and Start the server
+    - Reload IIS: Stop and Start the server
  <table>
   <tr>
     <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
@@ -213,7 +213,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 🔷 ***Configure osTicket Settings***
 
-- Rename `ost-sampleconfig.php` to `ost-config.php` (`C:\inetpub\wwwroot\osTicket\include`).
+- Rename `ost-sampleconfig.php` to `ost-config.php` (C:\inetpub\wwwroot\osTicket\include\ost-config.php).
 - Set permissions for `ost-config.php`:
   - Disable inheritance → Remove All.
   - Grant Full Control to "Everyone."
@@ -244,7 +244,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 🔷 ***Finalize Installation***
 
 - Complete setup in the browser (helpdesk name, default email).
-- **Install HeidiSQL**, create a session (`root/root`), and create a database named "osTicket."
+- Launch **HeidiSQL**, create a session (`root/root`), and create a database named "osTicket."
 - Finalize setup in the browser:
   - Database: `osTicket`, Username: `root`, Password: `root`.
   - Click **Install Now!**
