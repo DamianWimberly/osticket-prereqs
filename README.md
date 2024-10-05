@@ -135,8 +135,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <td><img width="100" height="75" alt="Screenshot 2024-10-05 at 9 14 41 AM 1" src="https://github.com/user-attachments/assets/8ec72176-5a7d-4f08-8c06-56a5790ea898"><img width="100" height="75" alt="Screenshot 2024-10-05 at 9 15 53 AM" src="https://github.com/user-attachments/assets/4cfa70fa-91f9-43ff-8048-632907adf72d"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 9 41 07 AM" src="https://github.com/user-attachments/assets/1aa4e66d-a4a8-42f1-b317-8e5093e7d8a1"></td>
     <td><img width="100" height="75" alt="Screenshot 2024-10-05 at 9 42 20 AM" src="https://github.com/user-attachments/assets/e5e49ef9-7936-4926-88be-4032ce42a756"><img width="100" height="75" alt="Screenshot 2024-10-05 at 9 42 45 AM" src="https://github.com/user-attachments/assets/ec0c7407-96ce-4c5b-b846-7ddf848f8cf5"><img width="200" height="75" alt="Screenshot 2024-10-05 at 9 43 55 AM" src="https://github.com/user-attachments/assets/04ceb4cd-5396-41e5-a4cf-b15290a84cb9"></td>
-    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 9 45 05 AM" src="https://github.com/user-attachments/assets/9083dda2-b9b8-44fe-90db-34872166324e"></td>
-    
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 9 45 05 AM" src="https://github.com/user-attachments/assets/9083dda2-b9b8-44fe-90db-34872166324e"></td>  
   </tr>
   <tr>
     <td>Create C:\PHP</td>
@@ -154,24 +153,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
  <table>
   <tr>
-    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 35 55 AM" src="https://github.com/user-attachments/assets/894092d5-c8d6-4ce4-aa6a-16b50691d28b"><img width="200" height="150" alt="Screenshot 2024-10-05 at 1 46 47 PM" src="https://github.com/user-attachments/assets/10c61aaa-c320-4e56-8db9-389eb224697f"> </td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 41 29 AM" src="https://github.com/user-attachments/assets/14b27f6c-38fc-4720-8182-396fe5430e8f"><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 42 17 AM" src="https://github.com/user-attachments/assets/c4440a0c-ca96-4a31-aa60-7efdad79bcba"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 46 41 AM" src="https://github.com/user-attachments/assets/b2366c1a-8012-424f-8c60-097ed166ceb4"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 52 26 AM" src="https://github.com/user-attachments/assets/04e96774-c975-4da3-8bdd-a1736b1e4e7d"></td>
   </tr>
   <tr>
     <td>Step 1</td>
     <td>Step 2</td>
     <td>Step 3</td>
     <td>Step 4</td>
-    <td>Step 5</td>
-    <td>Step 6</td>
-    <td>Step 7</td>
-    <td>Step 8</td>
   </tr>
 </table>
 
