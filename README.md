@@ -132,16 +132,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  <table>
   <tr>
     <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 9 12 10 AM" src="https://github.com/user-attachments/assets/b1127462-7e07-4b0e-8aeb-10bc5710f7f9"></td>
-    <td><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 14 41 AM 1" src="https://github.com/user-attachments/assets/8ec72176-5a7d-4f08-8c06-56a5790ea898"><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 15 53 AM" src="https://github.com/user-attachments/assets/4cfa70fa-91f9-43ff-8048-632907adf72d"></td>
+    <td><img width="100" height="100" alt="Screenshot 2024-10-05 at 9 14 41 AM 1" src="https://github.com/user-attachments/assets/8ec72176-5a7d-4f08-8c06-56a5790ea898"><img width="100" height="100" alt="Screenshot 2024-10-05 at 9 15 53 AM" src="https://github.com/user-attachments/assets/4cfa70fa-91f9-43ff-8048-632907adf72d"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 9 41 07 AM" src="https://github.com/user-attachments/assets/1aa4e66d-a4a8-42f1-b317-8e5093e7d8a1"></td>
-    <td><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 43 55 AM" src="https://github.com/user-attachments/assets/f6983001-0676-4944-909e-67f0080c4f5c"><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 42 45 AM" src="https://github.com/user-attachments/assets/ec0c7407-96ce-4c5b-b846-7ddf848f8cf5"><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 43 55 AM" src="https://github.com/user-attachments/assets/04ceb4cd-5396-41e5-a4cf-b15290a84cb9"></td>
+    <td><img width="100" height="100" alt="Screenshot 2024-10-05 at 9 42 20 AM" src="https://github.com/user-attachments/assets/e5e49ef9-7936-4926-88be-4032ce42a756"><img width="100" height="100" alt="Screenshot 2024-10-05 at 9 42 45 AM" src="https://github.com/user-attachments/assets/ec0c7407-96ce-4c5b-b846-7ddf848f8cf5"><img width="100" height="100" alt="Screenshot 2024-10-05 at 9 43 55 AM" src="https://github.com/user-attachments/assets/04ceb4cd-5396-41e5-a4cf-b15290a84cb9"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 9 45 05 AM" src="https://github.com/user-attachments/assets/9083dda2-b9b8-44fe-90db-34872166324e"></td>
     
   </tr>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
+    <td>Create C:\PHP</td>
+    <td>PFP 7.3.8 > C:\PHP</td>
+    <td>Open IIS</td>
     <td>Step 4</td>
     <td>Step 5</td>
   </tr>
@@ -238,9 +238,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 🔷 ***Finalize Installation***
 
-- Complete setup in the browser (helpdesk name, default email).
 - Launch **HeidiSQL**, create a session (`root/root`), and create a database named "osTicket."
 - Finalize setup in the browser:
+  - Helpdesk name, default email, username/password
   - Database: `osTicket`, Username: `root`, Password: `root`.
   - Click **Install Now!**
 
