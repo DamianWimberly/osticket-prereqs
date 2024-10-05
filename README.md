@@ -176,24 +176,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
  <table>
   <tr>
-    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 2 55 20 PM" src="https://github.com/user-attachments/assets/88caf99b-1dd7-41c6-9439-12b3c605a7f1"><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 54 20 AM" src="https://github.com/user-attachments/assets/4fdd508f-5005-40d8-9b77-0a825b255833"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 55 13 AM" src="https://github.com/user-attachments/assets/a93d9f6f-3e3f-4084-8144-e6708b06ff06">
+</td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 56 34 AM" src="https://github.com/user-attachments/assets/5e455b46-8ae6-4689-a15c-ceb4f7bf0c2c"></td>
   </tr>
   <tr>
     <td>Step 1</td>
     <td>Step 2</td>
     <td>Step 3</td>
-    <td>Step 4</td>
-    <td>Step 5</td>
-    <td>Step 6</td>
-    <td>Step 7</td>
-    <td>Step 8</td>
   </tr>
 </table>
 
