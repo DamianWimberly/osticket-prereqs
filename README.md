@@ -95,7 +95,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <tr>
     <td>Download & Extract</td>
     <td>osTicket Installation Files</td>
-    <td>MySQL Install & Configuration</td>
+    <td>MySQL Configuration</td>
   </tr>
 </table>
 
@@ -131,14 +131,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     - Reload IIS: Stop and Start the server
  <table>
   <tr>
-    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 9 12 10 AM" src="https://github.com/user-attachments/assets/b1127462-7e07-4b0e-8aeb-10bc5710f7f9"></td>
+    <td><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 14 41 AM 1" src="https://github.com/user-attachments/assets/8ec72176-5a7d-4f08-8c06-56a5790ea898"><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 15 53 AM" src="https://github.com/user-attachments/assets/4cfa70fa-91f9-43ff-8048-632907adf72d"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 9 41 07 AM" src="https://github.com/user-attachments/assets/1aa4e66d-a4a8-42f1-b317-8e5093e7d8a1"></td>
+    <td><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 43 55 AM" src="https://github.com/user-attachments/assets/f6983001-0676-4944-909e-67f0080c4f5c"><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 42 45 AM" src="https://github.com/user-attachments/assets/ec0c7407-96ce-4c5b-b846-7ddf848f8cf5"><img width="150" height="150" alt="Screenshot 2024-10-05 at 9 43 55 AM" src="https://github.com/user-attachments/assets/04ceb4cd-5396-41e5-a4cf-b15290a84cb9"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 9 45 05 AM" src="https://github.com/user-attachments/assets/9083dda2-b9b8-44fe-90db-34872166324e"></td>
+    
   </tr>
   <tr>
     <td>Step 1</td>
@@ -146,9 +144,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <td>Step 3</td>
     <td>Step 4</td>
     <td>Step 5</td>
-    <td>Step 6</td>
-    <td>Step 7</td>
-    <td>Step 8</td>
   </tr>
 </table>
 
