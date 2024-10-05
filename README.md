@@ -150,7 +150,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 🔷  ***Install osTicket***
 
 - Unzip `osTicket-v1.15.8.zip` and move the "upload" folder to `C:\inetpub\wwwroot`. Rename it to "osTicket."
-- Reload IIS and browse to **Sites** → **Default** → **osTicket** → **Browse *:80**.
+- Reload IIS and browse to **Sites** → **Default** → **osTicket** → **Browse*:80(http)**.
 
  <table>
   <tr>
