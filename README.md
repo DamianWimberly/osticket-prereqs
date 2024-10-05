@@ -89,7 +89,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </td>
     <td><img width="200" height="150" alt="13" src="https://github.com/user-attachments/assets/2a323a41-1cc4-47ee-9503-c0c100e2bc10">
 </td>
-    <td><img width="150" height="150" alt="Screenshot 2024-10-02 at 9 58 01 PM" src="https://github.com/user-attachments/assets/39172d2b-4c68-40a4-9c76-62d64b3785d7"><img width="150" height="150" alt="Screenshot 2024-10-02 at 9 58 45 PM" src="https://github.com/user-attachments/assets/f70941d3-aead-411a-bcab-5c61d05410fd"><img width="150" height="150" alt="Screenshot 2024-10-02 at 10 00 59 PM" src="https://github.com/user-attachments/assets/1cca1be2-c384-400c-a6f7-917aa312dc11"></td>
+    <td><img width="100" height="100" alt="Screenshot 2024-10-02 at 9 58 01 PM" src="https://github.com/user-attachments/assets/39172d2b-4c68-40a4-9c76-62d64b3785d7"><img width="100" height="100" alt="Screenshot 2024-10-02 at 9 58 45 PM" src="https://github.com/user-attachments/assets/f70941d3-aead-411a-bcab-5c61d05410fd"><img width="100" height="100" alt="Screenshot 2024-10-02 at 10 00 59 PM" src="https://github.com/user-attachments/assets/1cca1be2-c384-400c-a6f7-917aa312dc11"></td>
    
   </tr>
   <tr>
