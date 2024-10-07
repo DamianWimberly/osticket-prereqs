@@ -192,29 +192,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Rename `ost-sampleconfig.php` to `ost-config.php` (C:\inetpub\wwwroot\osTicket\include\ost-config.php).
 - Set permissions for `ost-config.php`:
-  - Disable inheritance → Remove All.
-  - Grant Full Control to "Everyone."
+  - Properties > Security > Advanced:
+      - Disable inheritance → Remove All.
+      - Grant Full Control to "Everyone."
 
  <table>
   <tr>
-    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 06 00 AM" src="https://github.com/user-attachments/assets/8c20bf48-db0d-44b1-a0c2-4bee0bd7e746"><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 07 15 AM" src="https://github.com/user-attachments/assets/cf6bc448-b69c-416d-ae13-c212c011b87d"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 07 49 AM" src="https://github.com/user-attachments/assets/44da5dab-66fd-4007-a506-22ce5faca4e1"><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 10 50 AM" src="https://github.com/user-attachments/assets/0d4ae01c-3268-41a0-b7ba-043388bfa711"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 12 27 AM" src="https://github.com/user-attachments/assets/6926ad28-92f5-463b-b1a6-ce73eacb7cba"><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 15 18 AM" src="https://github.com/user-attachments/assets/0b27648d-3ef2-4d94-b620-be7ce0c3ea2f"></td>
   </tr>
   <tr>
     <td>Step 1</td>
     <td>Step 2</td>
     <td>Step 3</td>
-    <td>Step 4</td>
-    <td>Step 5</td>
-    <td>Step 6</td>
-    <td>Step 7</td>
-    <td>Step 8</td>
   </tr>
 </table>
 
@@ -228,23 +219,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
  <table>
   <tr>
-    <td><img src="path_to_image1" alt="Step 1" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 2" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 3" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 4" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 5" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 6" width="200"/></td>
-    <td><img src="path_to_image2" alt="Step 7" width="200"/></td>
-    <td><img src="path_to_image3" alt="Step 8" width="200"/></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 26 59 AM" src="https://github.com/user-attachments/assets/6aa0b23c-d7ec-44f0-b83c-501860f4034e"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 32 51 AM" src="https://github.com/user-attachments/assets/406a6e04-2c3b-4fc5-9299-16c8271f4e81"><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 34 11 AM" src="https://github.com/user-attachments/assets/4e9720cc-89c7-4935-891c-9267a7123bcd"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 35 49 AM" src="https://github.com/user-attachments/assets/31f631d0-38cb-4861-8021-1a5340dd7f67"><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 36 00 AM" src="https://github.com/user-attachments/assets/d0c345e4-c805-456f-a61d-1ed7ac7f14ae"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 36 42 AM" src="https://github.com/user-attachments/assets/a8176c41-0c2c-4832-aa92-94880e2103d4"></td>
   </tr>
   <tr>
     <td>Step 1</td>
     <td>Step 2</td>
     <td>Step 3</td>
     <td>Step 4</td>
-    <td>Step 5</td>
-    <td>Step 6</td>
-    <td>Step 7</td>
-    <td>Step 8</td>
   </tr>
 </table>
