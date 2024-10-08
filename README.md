@@ -139,10 +139,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   </tr>
   <tr>
     <td>Create C:\PHP</td>
-    <td>PFP 7.3.8 > C:\PHP</td>
+    <td>Unzip PHP 7.3.8 into C:\PHP</td>
     <td>Open IIS</td>
-    <td>Step 4</td>
-    <td>Step 5</td>
+    <td>Register PHP</td>
+    <td>Restart the Server</td>
   </tr>
 </table>
 
@@ -159,10 +159,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 52 26 AM" src="https://github.com/user-attachments/assets/04e96774-c975-4da3-8bdd-a1736b1e4e7d"></td>
   </tr>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
-    <td>Step 4</td>
+    <td>Unzip osTicket-v1.15.8.zip</td>
+    <td>"Upload" → "osTicket" in C:\inetpub\wwwroot</td>
+    <td>Restart/Browse:80(http)</td>
+    <td>Installer Loaded</td>
   </tr>
 </table>
 
