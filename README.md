@@ -16,16 +16,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>List of Prerequisites</h2>
 
 - [osTicket-Installation-Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
-- Azure Virtual Machine (VM) Setup
+- Azure Virtual Machine Setup
 - RDP
 - IIS
 - PHP
-- MySQL 5.5.62
+- MySQL
 - Visual C++ Redistributable
 - HeidiSQL
 
@@ -93,7 +93,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    
   </tr>
   <tr>
-    <td>Download & Extract</td>
+    <td>Download & Extract osTicket Files</td>
     <td>osTicket Installation Files</td>
     <td>MySQL Configuration</td>
   </tr>
@@ -103,11 +103,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 🔷 ***Enable IIS and CGI***
 
 - Go to **Control** **Panel** > **Programs** > **Programs and Features**
-  - Check ✔ **Internet Information Services** and ✔ **CGI** (under **World Wide Web Services** > **Application Development Features**)
+  - Check ✔ **Internet Information Services**, ✔ **Web Management Tools**, ✔ **World Wide Web Services**, and ✔ **CGI** (expand **World Wide Web Services** > expand **Application Development Features**)
 
 <table>
   <tr>
-    <td><img width="200" height="150" alt="6" src="https://github.com/user-attachments/assets/559268bd-9bb4-4e67-acc2-2de9ab4a4412">
+    <td><img width="200" alt="Screenshot 2024-10-10 at 2 26 47 PM" src="https://github.com/user-attachments/assets/21ed06fd-b07d-4237-9529-77b1cfd6c636">
+<img width="200" height="150" alt="6" src="https://github.com/user-attachments/assets/559268bd-9bb4-4e67-acc2-2de9ab4a4412">
 </td>
     <td><img width="200" height="150" alt="7" src="https://github.com/user-attachments/assets/5342a34f-aded-44fc-a71f-2fc9a0a296af">
 </td>
@@ -115,7 +116,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </td>
   </tr>
   <tr>
-    <td>Control Panel</td>
+    <td>Control Panel > Programs</td>
     <td>Features/ISS Enabled </td>
     <td>CGI Enabled</td>
   </tr>
@@ -182,9 +183,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 10 56 34 AM" src="https://github.com/user-attachments/assets/5e455b46-8ae6-4689-a15c-ceb4f7bf0c2c"></td>
   </tr>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
+    <td>Navigate to PHP Extensions</td>
+    <td>Enable PHP Extensions</td>
+    <td>Restart Server & Reload Site</td>
   </tr>
 </table>
 
@@ -203,9 +204,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 12 27 AM" src="https://github.com/user-attachments/assets/6926ad28-92f5-463b-b1a6-ce73eacb7cba"><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 15 18 AM" src="https://github.com/user-attachments/assets/0b27648d-3ef2-4d94-b620-be7ce0c3ea2f"></td>
   </tr>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
+    <td>Rename to "ost-config.php"</td>
+    <td>Disable Inheritance</td>
+    <td>Grant Full Control</td>
   </tr>
 </table>
 
@@ -225,9 +226,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <td><img width="200" height="150" alt="Screenshot 2024-10-05 at 11 36 42 AM" src="https://github.com/user-attachments/assets/a8176c41-0c2c-4832-aa92-94880e2103d4"></td>
   </tr>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
-    <td>Step 4</td>
+    <td>HeidiSQL Session</td>
+    <td>osTicket Database Creation</td>
+    <td>Finalize Setup/Install</td>
+    <td>Install Complete</td>
   </tr>
 </table>
