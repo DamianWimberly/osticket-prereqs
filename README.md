@@ -22,12 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - [osTicket-Installation-Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
 - Azure Virtual Machine Setup
-- RDP
+- Remote Desktop Connection
 - IIS
-- PHP
-- MySQL
-- Visual C++ Redistributable
-- HeidiSQL
 
 <h2>Installation Steps</h2>
 
