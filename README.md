@@ -68,7 +68,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   </tr>
 </table>
 
+🔷 ***Enable IIS and CGI***
 
+- Go to **Control** **Panel** > **Programs** > **Programs and Features**
+  - Check ✔ **Internet Information Services**, ✔ **Web Management Tools**, ✔ **World Wide Web Services**, and ✔ **CGI** (expand **World Wide Web Services** > expand **Application Development Features**)
+
+<table>
+  <tr>
+    <td><img width="200" alt="Screenshot 2024-10-10 at 2 26 47 PM" src="https://github.com/user-attachments/assets/21ed06fd-b07d-4237-9529-77b1cfd6c636">
+<img width="200" height="150" alt="6" src="https://github.com/user-attachments/assets/559268bd-9bb4-4e67-acc2-2de9ab4a4412">
+</td>
+    <td><img width="200" height="150" alt="7" src="https://github.com/user-attachments/assets/5342a34f-aded-44fc-a71f-2fc9a0a296af">
+</td>
+    <td><img width="200" height="150" alt="9" src="https://github.com/user-attachments/assets/a5dcc679-4b28-43b6-bf8a-7300189f0fbf">
+</td>
+  </tr>
+  <tr>
+    <td>Control Panel > Programs</td>
+    <td>Features/ISS Enabled </td>
+    <td>CGI Enabled</td>
+  </tr>
+</table>
 
 🔷 ***Install Required Software***
 
@@ -92,29 +112,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <td>Download & Extract osTicket Files</td>
     <td>osTicket Installation Files</td>
     <td>MySQL Configuration</td>
-  </tr>
-</table>
-
-
-🔷 ***Enable IIS and CGI***
-
-- Go to **Control** **Panel** > **Programs** > **Programs and Features**
-  - Check ✔ **Internet Information Services**, ✔ **Web Management Tools**, ✔ **World Wide Web Services**, and ✔ **CGI** (expand **World Wide Web Services** > expand **Application Development Features**)
-
-<table>
-  <tr>
-    <td><img width="200" alt="Screenshot 2024-10-10 at 2 26 47 PM" src="https://github.com/user-attachments/assets/21ed06fd-b07d-4237-9529-77b1cfd6c636">
-<img width="200" height="150" alt="6" src="https://github.com/user-attachments/assets/559268bd-9bb4-4e67-acc2-2de9ab4a4412">
-</td>
-    <td><img width="200" height="150" alt="7" src="https://github.com/user-attachments/assets/5342a34f-aded-44fc-a71f-2fc9a0a296af">
-</td>
-    <td><img width="200" height="150" alt="9" src="https://github.com/user-attachments/assets/a5dcc679-4b28-43b6-bf8a-7300189f0fbf">
-</td>
-  </tr>
-  <tr>
-    <td>Control Panel > Programs</td>
-    <td>Features/ISS Enabled </td>
-    <td>CGI Enabled</td>
   </tr>
 </table>
 
