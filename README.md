@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 🔷 ***Create an Azure Virtual Machine***
 
-- In Azure, Navigate to **Virtual Machines** → **Create**.
+- In Azure, navigate to **Virtual Machines** → **Create**.
   - Select a **Windows image**.
   - Name the VM (e.g., "osTicket"), create a new resource group and select a region.
   - Choose a size with **at least 2 vCPUs**.
@@ -121,7 +121,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Unzip **PHP 7.3.8** (`php-7.3.8-nts-Win32-VC15-x86.zip`) from the **osTicket-Installation-Files** folder into `C:\PHP`.
 
 - Register PHP
-    - IIS(open as admin) > PHP Manager > `C:\PHP\php-cgi.exe`.
+    - IIS(open as admin) > PHP Manager > Register new PHP version > `C:\PHP\php-cgi.exe`.
     - Reload IIS: Stop and Start the server
  <table>
   <tr>
